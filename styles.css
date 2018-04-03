@@ -1,0 +1,44 @@
+.container {
+  width:50%!important;
+  border-style: solid!important;
+  border-color: black;
+  padding-top: 2%;
+  margin:2%;
+  background-color: lightgray;
+  font-family: 'Architects Daughter';
+
+}
+
+.jumbotron {
+  padding-top: 2%!important;
+
+}
+
+body {
+  background-color: lightgray!important;
+  /*color:blue!important;*/
+  background-image: url(books.jpg)!important;
+
+}
+
+.practice {
+  text-align: center;
+  padding-top: 2%;
+  color:black;
+  font-weight: bold;
+
+  /*font-family: 'Merienda', cursive;*/
+  /**font-family: 'Architects Daughter', cursive;*/*/
+  /*font-family: 'Raleway', serif;*/
+
+}
+
+h5 {
+  padding-top:2%;
+}
+
+.question {
+  text-decoration: underline;
+  font-size: 20px;
+  font-weight: bold;
+}
